@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   web:
     build: .  # Indica que a imagem deve ser construída a partir do Dockerfile no diretório atual
